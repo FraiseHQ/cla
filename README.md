@@ -1,2 +1,3 @@
 # cla
-Fraise Contributor Licence Agreement
+
+This repo tracks the signatures of fraise's CLA agreement.
