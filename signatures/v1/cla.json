@@ -1,1 +1,11 @@
-{"signatures": []}
+{
+  "signatures": [
+    {
+      "login": "RonsenbergVI",
+      "id": 14303619,
+      "date": "2026-09-05T15:29:14.238Z",
+      "repo": "FraiseHQ/fraise",
+      "pr": 262
+    }
+  ]
+}
